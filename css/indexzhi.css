@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+.box{height:109px; background:url(../images/bg.jpg) repeat-x;}
+.box .top{ width:960px; height:109px; overflow:hidden; margin:0 auto; line-height:109px;}
+.box .top h3{ font-size:39px; color:#fff;}
+.box .top p{ font-size:14px; color:#fff; margin:0 0 0 14px; padding-top:9px;}
+
+.box2{height:49px; background:#010044;}
+.box2 .div1{width:960px; margin:0 auto;}
+.box2 .div1 ul li a{ display:block; font-size:12px; color:#fff; display:block; width:190px; height:49px; line-height:49px; text-align:center;}
+.box2 .div1 ul li{border-right:1px solid #4e9ce9;}
+.box2 .div1 ul .last{ border-right:none;}
+
+.big{height:546px; background:#f7f7f7;}
+.content{width:960px; margin:0 auto;}
+h4 a{font-size:25px; color:#32639a;}
+h4{ width:620px; padding-top:30px; padding-bottom:13px; border-bottom:1px solid #e2e2e2; }
+.rq{width:620px;}
+.rq span{ font-size:12px; color:#907878; margin-top:20px;}
+.left p{ width:620px; font-size:12px; color:#787878; text-indent:2em; line-height:21px; margin-top:16px;}
+.yue{margin-top:20px;}
+.yue a{ font-size:12px; color:#4486c7; padding-right:10px;}
+.yue .du{border-right:1px solid #000; margin-right:8px; }
+
+.right{width:280px; height:538px; background:#fff;}
+.right .shang{ width:258px; height:22px; background:#e2e2e2; padding:32px 0 26px 22px;}
+.right .shang .kuang{ width:180px; height:22px; background:#fff;}
+.right .shang .go{ width:55px; height:22px; background:#b9b9b9; line-height:22px; text-align:center; font-size:16px;}
+
+.zhong{ padding:22px 0 0 30px; width:249px;}
+.zhong h3{ font-size:18px; color:#32639a;}
+.zhong p{width:215px; font-size:12px; color:#787878; line-height:25px; margin-top:20px;}
+.zhong .biao{ margin-top:30px;}
+.zhong div{width:220px; font-size:12px; color:#787878; margin-top:9px;  border-bottom:1px dashed #d1d1d1; padding-bottom:9px;}
+.zhong .te{margin-top:20px;}
+
+.bottom{height:62px; background:#ececec; font-size:12px; color:#a0a0a0; text-align:center; line-height:62px;}
+
+
+
+
+
